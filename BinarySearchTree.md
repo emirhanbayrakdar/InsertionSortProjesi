@@ -7,3 +7,4 @@ Cevap:
 Root 7 dir
 
 
+![sasa](https://user-images.githubusercontent.com/106848786/191600577-709333ba-2a44-4f06-9170-576b923c9743.png)
