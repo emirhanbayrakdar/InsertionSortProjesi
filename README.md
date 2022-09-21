@@ -1,2 +1,3 @@
 # patika.dev proje
-patika.dev veri yapıları ve algoritmalar insertion sort proje ödevi
+https://app.patika.dev/emrhnbyrkdr
+patika.dev veri yapıları ve algoritmalar proje ödevi
